@@ -1,1 +1,7 @@
-BOBOBO ni aco
+Git command guide
+
+- git add // For adding of newly created file
+- git commit -m "Enter message here" // Commiting changes made
+- git pull // updating your local branch / getting changes from other developer
+- git push // push commit changes
+
